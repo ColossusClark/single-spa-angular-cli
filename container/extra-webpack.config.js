@@ -1,4 +1,4 @@
-module.exports = (angularWebpackConfig, options) => {
+module.exports = (angularWebpackConfig) => {
   return {
     ...angularWebpackConfig,
     module: {
